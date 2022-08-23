@@ -1,6 +1,8 @@
-## Hi there 👋
 
-Telegram 验证机器人
+##TelechaBot
+
+基于题目模型的生物验证
+ 
 
 
 <!--
