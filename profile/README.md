@@ -1,9 +1,14 @@
 
 ## TelechaBot
 
+
+应当使用 Python 3.7 或更高版本
 基于题目模型的生物验证
  
+```
+curl -LO https://raw.githubusercontent.com/TelechaBot/TelechaBot/main/setup.sh && sh setup.sh
 
+```
 
 <!--
 
