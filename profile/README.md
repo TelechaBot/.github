@@ -10,6 +10,10 @@ curl -LO https://raw.githubusercontent.com/TelechaBot/TelechaBot/main/setup.sh &
 
 ```
 
+[部署文档](https://github.com/TelechaBot/TelechaBot/blob/main/README.md)
+
+[测试实例](https://t.me/SmartCapthaBot)
+
 <!--
 
 **Here are some ideas to get you started:**
