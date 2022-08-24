@@ -17,6 +17,7 @@
 ```
 curl -LO https://raw.githubusercontent.com/TelechaBot/TelechaBot/main/setup.sh && sh setup.sh
 
+cd TelechaBot
 ```
 
 **后台运行**
