@@ -19,7 +19,9 @@ curl -LO https://raw.githubusercontent.com/TelechaBot/TelechaBot/main/setup.sh &
 
 cd TelechaBot
 
-vim Captcha_exp.yaml 
+cp Captcha_exp.yaml Captcha.yaml 
+
+vim Captcha.yaml 
 
 # 填入你自己的token和信息，变更默认的验证Bot链接
 ```
