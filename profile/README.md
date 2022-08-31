@@ -9,7 +9,7 @@
   <a href="https://dun.mianbaoduo.com/@Sky0717"><img src="https://img.shields.io/badge/Become-sponsor-DB94A2" alt="SPONSOR"></a>
 </p>
 
-应当使用 Python 3.7 或更高版本
+应当使用 Python 3.7 或更高版本来适应特性
 
 基于题目模型的生物验证
 
