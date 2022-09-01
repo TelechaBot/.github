@@ -17,6 +17,10 @@
 ```
 curl -LO https://raw.githubusercontent.com/TelechaBot/TelechaBot/main/setup.sh && sh setup.sh
 
+sudo apt-get install redis
+
+systemctl start redis.service
+
 cd TelechaBot
 
 cp Captcha_exp.yaml Captcha.yaml 
