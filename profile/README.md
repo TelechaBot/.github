@@ -23,7 +23,8 @@ systemctl start redis.service
 
 cd TelechaBot
 
-cp Captcha_exp.yaml Captcha.yaml 
+cp Captcha_exp.yaml Captcha.yaml
+
 
 vim Captcha.yaml 
 
@@ -34,6 +35,10 @@ vim Captcha.yaml
 
 ```shell
 nohup python3 main.py > output.log 2>&1 &
+
+
+cat output.log
+
 ```
 
 **查看进程**
