@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/TelechaBot/TelechaBot/main/CaptchaCore/cover.png)
+![cover](https://raw.githubusercontent.com/TelechaBot/.github/main/profile/cover.png)
 -----
 
 
