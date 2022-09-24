@@ -17,16 +17,15 @@
 ```
 curl -LO https://raw.githubusercontent.com/TelechaBot/TelechaBot/main/setup.sh && sh setup.sh
 
-apt-get install redis
+apt-get install redis,nano
 
 systemctl start redis.service
 
 cd TelechaBot
 
-cp Captcha_exp.yaml Captcha.yaml
-
-
-vim Captcha.yaml 
+cp Captcha_exp.toml Captcha.toml
+ 
+nano Captcha.toml 
 
 # 填入你自己的token和信息，变更默认的验证Bot链接
 ```
