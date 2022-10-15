@@ -50,7 +50,7 @@ ps -aux|grep python3
 
 [部署文档](https://github.com/TelechaBot/TelechaBot/blob/main/README.md)
 
-[测试实例](https://t.me/SmartCapthaBot)
+[在群组添加验证机器人](https://t.me/SmartCapthaBot?startgroup=start&admin=can_invite_users)
 
 <!--
 
