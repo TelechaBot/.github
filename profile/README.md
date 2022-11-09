@@ -11,36 +11,12 @@
 
 应当使用 Python 3.7 或更高版本来适应特性
 
-基于题目模型的生物验证
+*TelechaBot* 是一个使用 Python 编写的机器人项目，使用 可更新模组 进行生物验证！ 项目经过模块化，便于扩展。
 
-**快捷部署**
-```
-curl -LO https://raw.githubusercontent.com/TelechaBot/TelechaBot/main/setup.sh && sh setup.sh
+为了给群组提供有效的验证模式，便捷的以**筛选**为目的**梯度验证**模式，它支持诸如 **成语验证** **普通语音数字验证** **图片验证** **文本验证** **诗词验证** **学科题库** 等验证模式。
 
-apt-get install redis,nano
+这让它既可以作为普通群组的智能安全的验证工具(推荐简单安全的听力验证)，也可以作为严肃型群组的得力助手(例如数学验证)。
 
-systemctl start redis.service
-
-cd TelechaBot
-
-cp Captcha_exp.toml Captcha.toml
- 
-nano Captcha.toml 
-
-# 填入你自己的token和信息，变更默认的验证Bot链接
-```
-
-**后台运行**
-
-```shell
-# 长时间运行
-nohup python3 main.py > /dev/null 2>&1 & 
-# 临时
-nohup python3 main.py > output.log 2>&1 &
-
-cat output.log
-
-```
 
 **查看进程**
 
