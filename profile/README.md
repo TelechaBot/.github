@@ -10,9 +10,9 @@
 </p>
 
 
-#### [部署文档](https://github.com/TelechaBot/TelechaBot/blob/main/README.md)
+**[部署文档](https://github.com/TelechaBot/TelechaBot/blob/main/README.md)**
 
-#### [在群组添加验证机器人](https://t.me/SmartCapthaBot?startgroup=start&admin=can_invite_users)
+**[在群组添加验证机器人](https://t.me/SmartCapthaBot?startgroup=start&admin=can_invite_users)**
 
 >使用 Python 3.7 或更高版本
 
@@ -22,12 +22,12 @@
 
 这让它既可以作为普通群组的智能安全的验证工具(推荐简单安全的听力验证)，也可以作为严肃型群组的得力助手(例如数学验证)。
 
-
 **查看进程**
 
 ```
 ps -aux|grep python3
 ```
+
 
 
 <!--
