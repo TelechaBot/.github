@@ -9,7 +9,12 @@
   <a href="https://dun.mianbaoduo.com/@Sky0717"><img src="https://img.shields.io/badge/Become-sponsor-DB94A2" alt="SPONSOR"></a>
 </p>
 
-应当使用 Python 3.7 或更高版本来适应特性
+
+[部署文档](https://github.com/TelechaBot/TelechaBot/blob/main/README.md)
+
+[在群组添加验证机器人](https://t.me/SmartCapthaBot?startgroup=start&admin=can_invite_users)
+
+>使用 Python 3.7 或更高版本
 
 *TelechaBot* 是一个使用 Python 编写的机器人项目，使用 可更新模组 进行生物验证！ 项目经过模块化，便于扩展。
 
@@ -24,9 +29,6 @@
 ps -aux|grep python3
 ```
 
-[部署文档](https://github.com/TelechaBot/TelechaBot/blob/main/README.md)
-
-[在群组添加验证机器人](https://t.me/SmartCapthaBot?startgroup=start&admin=can_invite_users)
 
 <!--
 
