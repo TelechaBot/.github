@@ -41,4 +41,4 @@ ps -aux|grep python3
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-此项目子仓库，未注明均按照 AGPL 协议开源
+未注明协议的子仓库均按照 AGPL 协议开源。
