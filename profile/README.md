@@ -3,10 +3,9 @@
 
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/badge/LICENSE-Mit-ff69b4">
-  <img src="https://img.shields.io/badge/USE-python-green" alt="PYTHON" >
-  <img src="https://img.shields.io/github/v/release/TelechaBot/TelechaBot?style=plastic" alt="V" >
-  <a href="https://dun.mianbaoduo.com/@Sky0717"><img src="https://img.shields.io/badge/Become-sponsor-DB94A2" alt="SPONSOR"></a>
+  <img alt="License" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg" />
+  <img src="https://img.shields.io/badge/Python-3.9%2B-green.svg" alt="Python 3.9+" />
+  <a href="https://github.com/TelechaBot/Kitan/releases"><img src="https://img.shields.io/github/v/release/TelechaBot/Kitan?style=plastic" alt="Version" ></a>
 </p>
 
 [Invite the bot to your group](https://t.me/SmartVerifyBot?startgroup&admin=can_invite_users+restrict_members+delete_messages)
