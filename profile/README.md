@@ -1,5 +1,5 @@
-![cover](https://raw.githubusercontent.com/TelechaBot/.github/main/profile/cover.png)
------
+![Kitan](https://github.com/TelechaBot/Kitan/blob/main/.github/project_cover.webp?raw=true)
+---
 
 
 <p align="center">
@@ -9,33 +9,24 @@
   <a href="https://dun.mianbaoduo.com/@Sky0717"><img src="https://img.shields.io/badge/Become-sponsor-DB94A2" alt="SPONSOR"></a>
 </p>
 
-**[部署文档](https://github.com/TelechaBot/TelechaBot/blob/main/README.md)**
+[Invite the bot to your group](https://t.me/SmartVerifyBot?startgroup&admin=can_invite_users+restrict_members+delete_messages)
 
-**[在群组添加验证机器人](https://t.me/SmartCapthaBot?startgroup=start&admin=can_invite_users)**
+>Python 3.9+ 
 
->使用 Python 3.7 或更高版本
+### 🚀 Why Choose Kitan
 
-*TelechaBot* 是一个使用 Python 编写的机器人项目，使用 可更新模组 进行生物验证！ 项目经过模块化，便于扩展。
+Traditional verification methods like captchas, security questions, and puzzles can be circumvented with human
+assistance. Moreover, not all advertisement senders are bots; real users may also send ads.
 
-- 采用审批邀请的实现方式，防范洪水加群，机器人失去响应群组不会失守。同时支持 Topic
+Hence, we need a verification method tailored to the current environment, ensuring that users are within the platform
+and have undergone self-defense testing.
 
-- 提供有效的**梯度验证**模式，它支持诸如 **成语验证** **普通语音数字验证** **初等化学** **初等物理** **诗词验证** **初等生物** 等验证模式。输入 `/select` 切换。
+Kitan achieves this by using quick fingerprint verification and puzzle proof-of-work within the authentication mechanism
+to ensure users are real humans.
 
-- 支持 全自动反Spam,自动放行 策略组。
-
-- 支持 自定义接入任何基于文本回复判定的实现(需要会写Python Class)。
-
-**应用方向**
-
-- 普通群组的智能安全的验证工具(简单安全的 TTS 语音验证)
-- 定向筛选工具(数学验证)。
-
-
-**查看进程**
-
-```
-ps -aux|grep python3
-```
+Additionally, Kitan employs risk control techniques, combining LLM/NLP/big data technologies for AI behavior analysis,
+monitoring user behavior from joining to leaving groups, effectively preventing personal attacks and real human
+advertisement harassment.
 
 <!--
 
@@ -47,5 +38,3 @@ ps -aux|grep python3
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-未注明协议的子仓库均按照 AGPL 协议开源。
